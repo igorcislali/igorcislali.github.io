@@ -41,7 +41,7 @@ world of soccer
   <div class="container">
     <h1>Welcome to the World of Soccer</h1>
     <p>Explore the passion, excitement, and history of the beautiful game!</p>
-    <img src="soccer-ball.gif" alt="Soccer Ball" class="img-fluid mt-4" style="max-width: 300px;">
+    <img src="soccer-ball.gif" alt="Soccer Ball" class="https://stock.adobe.com/md/search?k=soccer+balls+clip+art&asset_id=213338964" style="max-width: 300px;">
   </div>
 </section>
 
