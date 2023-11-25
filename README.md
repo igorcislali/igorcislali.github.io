@@ -50,7 +50,7 @@ world of soccer
   <div class="container">
     <h2 class="text-center mb-4">About Soccer</h2>
     <p>Soccer, also known as football in most countries, is a popular sport played by millions worldwide. It involves two teams of eleven players each, trying to score goals by kicking a ball into the opponent's net.</p>
-    <!-- Add more information about soccer here -->
+    
   </div>
 </section>
 
@@ -58,7 +58,7 @@ world of soccer
 <section id="teams" class="py-5">
   <div class="container">
     <h2 class="text-center mb-4">Top Soccer Teams</h2>
-    <!-- Add information about top soccer teams here -->
+   
   </div>
 </section>
 
@@ -66,7 +66,7 @@ world of soccer
 <section id="contact" class="bg-dark text-white py-5">
   <div class="container">
     <h2 class="text-center mb-4">Contact Us</h2>
-    <!-- Add contact form or contact information here -->
+   
   </div>
 </section>
 
